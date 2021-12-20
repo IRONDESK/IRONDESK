@@ -41,7 +41,3 @@
   <a href="https://zero1zero.tistory.com/"><img align="center" src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 </div>
 
-<!-- <br>
-
-<h3 align="center">GitHub Stats</h3>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OhRaeKyu&show_icons=true&count_private=true&hide_border=true&theme=swift" align="center" /></div> -->
