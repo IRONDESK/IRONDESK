@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/SCSS-ff69b4?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/typescript-181717?style=for-the-badge&logo=typescript&logoColor=white">
 </p>
 
 <br>
